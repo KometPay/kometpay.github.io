@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="892px" preserveAspectRatio="none" style="width:1240px;height:892px;background:#FFFFFF;" version="1.1" viewBox="0 0 1240 892" width="1240px" zoomAndPan="magnify"><defs/><g><rect height="26.4883" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="290" x="468" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="280" x="473" y="23.5352">System Context diagram for KometPay</text><!--MD5=[38f0cba4415028614b9833bdf196b62d]
+entity usu--><g id="elem_usu"><rect fill="#08427B" height="136.3086" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="195" x="475.5" y="44.4883"/><image height="48" width="48" x="549" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="54.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="63" x="541.5" y="117.957">US User</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="571" y="134.8672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="167" x="489.5" y="151.3555">Sends money to users in</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="538" y="167.8438">Colombia.</text></g><!--MD5=[7d7e6165bfc6b5ffae5f4729d887f4c0]
+entity cou--><g id="elem_cou"><rect fill="#08427B" height="136.3086" rx="2.5" ry="2.5" style="stroke:#073B6F;stroke-width:0.5;" width="209" x="584.5" y="256.4883"/><image height="48" width="48" x="665" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAACD0lEQVR4Xu2YoU4EMRCGT+4j8Ai8AhaH4QHgAUjQuFMECUgMIUgwJAgMhgQsAYUiJCiQIBBY+EITsjfTdme6V24v4c8vyGbb+ZjOtN0bNcvjQXmkH83WvYBWto6PLm6v7p7uH1/w2fXD+PBycX1Pv2l3IdDm/vn7x+dXQiAubRzoURa7gRZWd0iGRIiJbOnhnfYBQZNJjNbuyY2eJG8fkDE3bbG4ep6MHUAsgYxmE3nVs6VsBWJSGccsOlFPmLIViMzLOB7pCVO2AtHJMohH7Fh6zqitQK7m0rJvAVYgGcEpe//PLdDz65sM4pF9N7ICcXDKIB5Nv6j7tD0NoSdM2QrU9Gg0ewE1LqBhHR3BBdvj2vapnidjHxD/q6vd7Pvhr31AwcY8eXMTXAKECZZJFXuEq27aLgQK5uLMohCenGGuGewOxSjBvYBqeG6B+Nqiblggdjnc+ZXDy+FNFpFzw76O3UBAROuXh6FoiAcf5g9eTvUgzy0nWg6I8cXHRUpg5bOVBCo+KDpFajOf23GgPme7RSQ+lacIENUgJ6gg1k6HjgOlqnLqip4tEuhv0hNEMXUD0clyXE3p6pZA0S2nnvTlXwLJEZWlb7cTQH1+USgTN4VhAenm/wea1OCAOmqo6fE1WCb9WSKBah+rbUWPWAmE2Rvk0ApiB45eOyNAzU8xcTvj8KvkKEoOaIYeHNA3ZuygAvFMUO0AAAAASUVORK5CYII=" y="266.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="130" x="624" y="329.957">Colombian User</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="687" y="346.8672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="181" x="598.5" y="363.3555">Stores USDC and offramps</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="672.5" y="379.8438">COP.</text></g><!--MD5=[4e21b532e63961c691388ceb4b1d1284]
+entity kps--><g id="elem_kps"><rect fill="#1168BD" height="88.3086" rx="2.5" ry="2.5" style="stroke:#3C7FC0;stroke-width:0.5;" width="204" x="381" y="482.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="80" x="443" y="507.957">KometPay</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="481" y="524.8672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="414.5" y="541.3555">Enables remittances</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="184" x="391" y="557.8438">between US and Colombia.</text></g><!--MD5=[c2c072f33ad46cb704b6cd4ba69cc41b]
+entity sex--><g id="elem_sex"><rect fill="#999999" height="88.3086" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="194" x="7" y="668.9883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="49" x="79.5" y="694.457">Stably</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="102" y="711.3672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="166" x="21" y="727.8555">Onramp of USD to USDC</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="66" y="744.3438">using ACH.</text></g><!--MD5=[2c0a8264cd870ddce516c2e398897698]
+entity sllex--><g id="elem_sllex"><rect fill="#999999" height="71.8203" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="161" x="252.5" y="676.9883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="50" x="308" y="702.457">Stellar</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="331" y="719.3672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="137" x="266.5" y="735.8555">Blockchain network.</text></g><!--MD5=[fed02e8553769d297a36463a57d0a756]
+entity aex--><g id="elem_aex"><rect fill="#999999" height="88.3086" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="202" x="510" y="668.9883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="57" x="582.5" y="694.457">Anclap</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="609" y="711.3672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="524" y="727.8555">Offramp of Digital COP to</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="594.5" y="744.3438">COP.</text></g><!--MD5=[5ba1cc4dcd025b60d51ef49c1ce88458]
+entity vex--><g id="elem_vex"><rect fill="#999999" height="104.7969" rx="2.5" ry="2.5" style="stroke:#8A8A8A;stroke-width:0.5;" width="209" x="808.5" y="660.4883"/><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacing" textLength="37" x="894.5" y="685.957">Vero</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="911" y="702.8672"> </text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="844" y="719.3555">Sends transactional,</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="185" x="818.5" y="735.8438">behavioural and marketing</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="53" x="886.5" y="752.332">comms.</text></g><!--MD5=[6ec5eabdde0a8ce10e610edc3a2c04a1]
+link usu to cou--><g id="link_usu_cou"><path d="M610.18,180.7983 C621.99,202.1783 635.13,225.9683 647.24,247.8983 " fill="none" id="usu-to-cou" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="651.1,254.8683,649.8535,246.4157,644.603,249.3195,651.1,254.8683" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="93" x="635" y="223.0898">Send money to</text></g><!--MD5=[65553254abe134ab426ad737e8fac009]
+link usu to kps--><g id="link_usu_kps"><path d="M514.73,180.6983 C498.64,203.2883 483.33,229.6083 475,256.4883 C452.52,329.0583 461.82,417.9583 471.6,473.1683 " fill="none" id="usu-to-kps" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="473.03,480.9183,474.5384,472.5085,468.6368,473.5903,473.03,480.9183" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="90" x="476" y="329.0898">Register using</text></g><!--MD5=[cc16d1f39193f70c5b3da4fef02e1d6b]
+link cou to kps--><g id="link_cou_kps"><path d="M584.06,379.2483 C565.59,391.7683 547.62,406.2583 533,422.4883 C519.74,437.2083 509.22,456.0883 501.33,473.6483 " fill="none" id="cou-to-kps" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="498.26,480.7483,504.1861,474.5935,498.6779,472.2145,498.26,480.7483" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="117" x="534" y="435.0898">Register and holds</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="75" x="557" y="449.2227">funds using</text></g><!--MD5=[e530b6d789339462eb59dd84522be3f0]
+link kps to sex--><g id="link_kps_sex"><path d="M380.81,534.1083 C318.81,542.2983 240.62,560.4583 182,600.4883 C159.94,615.5483 142.16,639.0583 129.17,660.6083 " fill="none" id="kps-to-sex" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="125.19,667.4383,131.8095,662.0363,126.6253,659.0157,125.19,667.4383" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="146" x="183" y="620.0898">Requests onramping to</text></g><!--MD5=[437cc4d50625580c70327d73c00292b5]
+link kps to sllex--><g id="link_kps_sllex"><path d="M380.8,570.1083 C368.97,578.6583 358.22,588.7183 350,600.4883 C336.56,619.7083 331.98,645.3583 330.9,667.1983 " fill="none" id="kps-to-sllex" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="330.68,675.1083,333.9073,667.1972,327.9097,667.0259,330.68,675.1083" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="134" x="351" y="620.0898">Creates wallets using</text></g><!--MD5=[5fb88cb105f22978e788f13b28d67bc0]
+link kps to aex--><g id="link_kps_aex"><path d="M486.01,570.8683 C488.98,590.2983 494.76,612.7683 506,630.4883 C513.45,642.2383 523.22,652.9783 533.79,662.5183 " fill="none" id="kps-to-aex" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="539.7,667.6283,535.6044,660.1299,531.6838,664.6718,539.7,667.6283" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="148" x="507" y="620.0898">Requests offramping to</text></g><!--MD5=[2f5e0fe8da682b6590ec82c46517421e]
+link kps to vex--><g id="link_kps_vex"><path d="M585.23,567.9383 C611.01,578.3583 638.59,589.6783 664,600.4883 C708.55,619.4383 757.22,641.0283 799.61,660.1283 " fill="none" id="kps-to-vex" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="806.9,663.4183,800.8362,657.3991,798.3736,662.8704,806.9,663.4183" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="144" x="733" y="613.0898">Sends communications</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="13" x="800.5" y="627.2227">to</text></g><!--MD5=[f786f7181b9730a266ec4abf955da6a2]
+link usu to sex--><g id="link_usu_sex"><path d="M498.3,180.9183 C404.4,269.2083 243.61,432.5783 145,600.4883 C134.27,618.7583 125.55,640.3183 118.95,659.5883 " fill="none" id="usu-to-sex" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="116.46,667.1183,121.8359,660.4775,116.1438,658.5801,116.46,667.1183" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="97" x="290.5" y="435.0898">Completes KYC</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="146" x="268" y="449.2227">connects to bank using</text></g><!--MD5=[a9877e3ae0a8fd95a3406cff97fa950b]
+link cou to aex--><g id="link_cou_aex"><path d="M691.06,392.9683 C691.02,455.9683 685.91,551.7983 660,630.4883 C656.61,640.7783 651.74,651.1483 646.37,660.8783 " fill="none" id="cou-to-aex" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="642.52,667.5783,649.1095,662.1397,643.9087,659.1479,642.52,667.5783" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="136" x="688" y="531.0898">Completes KYC using</text></g><!--MD5=[0f04a80beb75584a5668975c2a1a076c]
+link vex to usu--><g id="link_vex_usu"><path d="M913.99,660.3283 C913.19,570.0083 900.02,381.1283 811,256.4883 C778.43,210.8783 726.35,177.1983 679.2,154.0283 " fill="none" id="vex-to-usu" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="672.13,150.6183,678.038,156.7904,680.6396,151.3838,672.13,150.6183" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="144" x="891" y="435.0898">Sends communications</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="13" x="958.5" y="449.2227">to</text></g><!--MD5=[a8f8d8bc80f3b6fd65b1e182b5cf5a3d]
+link vex to cou--><g id="link_vex_cou"><path d="M974.36,660.1183 C1038.56,599.5383 1122.48,498.0183 1064,422.4883 C1032.09,381.2783 901.35,354.4083 803.15,339.6283 " fill="none" id="vex-to-cou" style="stroke:#666666;stroke-width:1.0;"/><polygon fill="#666666" points="795.26,338.4583,802.7345,342.5973,803.613,336.662,795.26,338.4583" style="stroke:#666666;stroke-width:1.0;"/><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="144" x="1084" y="524.0898">Sends communications</text><text fill="#666666" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="13" x="1151.5" y="538.2227">to</text></g><rect height="98.4414" rx="7.5" ry="7.5" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="129" x="1089" y="778.2852"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="51" x="1095" y="799.8203">Legend</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="4" x="1146" y="799.8203"> </text><rect fill="#08427B" height="16.4883" style="stroke:none;stroke-width:1.0;" width="117" x="1095" y="802.7734"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="48" x="1099" y="816.3086">person</text><rect fill="#1168BD" height="16.4883" style="stroke:none;stroke-width:1.0;" width="117" x="1095" y="819.2617"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="1099" y="832.7969">system</text><rect fill="#686868" height="16.4883" style="stroke:none;stroke-width:1.0;" width="117" x="1095" y="835.75"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="1099" y="849.2852">external person</text><rect fill="#999999" height="16.4883" style="stroke:none;stroke-width:1.0;" width="117" x="1095" y="852.2383"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="108" x="1099" y="865.7734">external system</text><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1212" y1="786.2852" y2="786.2852"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1212" y1="802.7734" y2="802.7734"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1212" y1="819.2617" y2="819.2617"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1212" y1="835.75" y2="835.75"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1212" y1="852.2383" y2="852.2383"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1212" y1="868.7266" y2="868.7266"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1095" x2="1095" y1="786.2852" y2="868.7266"/><line style="stroke:#FFFFFF;stroke-width:1.0;" x1="1212" x2="1212" y1="786.2852" y2="868.7266"/><!--MD5=[d9a44a7b10ac99f03df5eebb6e4429dc]
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+title System Context diagram for KometPay
+
+Person(usu, "US User", "Sends money to users in Colombia.")
+Person(cou, "Colombian User", "Stores USDC and offramps COP.")
+System(kps, "KometPay", "Enables remittances between US and Colombia.")
+System_Ext(sex, "Stably", "Onramp of USD to USDC using ACH.")
+System_Ext(sllex, "Stellar", "Blockchain network.")
+System_Ext(aex, "Anclap", "Offramp of Digital COP to COP.")
+System_Ext(vex, "Vero", "Sends transactional, behavioural and marketing comms.")
+
+
+Rel(usu, cou, "Send money to")
+Rel(usu, kps, "Register using")
+Rel(cou, kps, "Register and holds funds using")
+Rel(kps, sex, "Requests onramping to")
+Rel(kps, sllex, "Creates wallets using")
+Rel(kps, aex, "Requests offramping to")
+Rel(kps, vex, "Sends communications to")
+Rel(usu, sex, "Completes KYC connects to bank using")
+Rel(cou, aex, "Completes KYC using")
+Rel(vex, usu, "Sends communications to")
+Rel(vex, cou, "Sends communications to")
+@enduml
+
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam LegendBorderColor transparent
+skinparam LegendBackgroundColor transparent
+skinparam LegendFontColor #FFFFFF
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam queue {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+sprite $person [48x48/16] {
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+0000000000000000000049BCCA7200000000000000000000
+0000000000000000006EFFFFFFFFB3000000000000000000
+00000000000000001CFFFFFFFFFFFF700000000000000000
+0000000000000001EFFFFFFFFFFFFFF80000000000000000
+000000000000000CFFFFFFFFFFFFFFFF6000000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+00000000000001FFFFFFFFFFFFFFFFFFF900000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFF00000000000000
+0000000000000BFFFFFFFFFFFFFFFFFFFF40000000000000
+0000000000000EFFFFFFFFFFFFFFFFFFFF70000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000FFFFFFFFFFFFFFFFFFFFF80000000000000
+0000000000000DFFFFFFFFFFFFFFFFFFFF60000000000000
+0000000000000AFFFFFFFFFFFFFFFFFFFF40000000000000
+00000000000006FFFFFFFFFFFFFFFFFFFE00000000000000
+00000000000000EFFFFFFFFFFFFFFFFFF800000000000000
+000000000000007FFFFFFFFFFFFFFFFFF100000000000000
+000000000000000BFFFFFFFFFFFFFFFF5000000000000000
+0000000000000001DFFFFFFFFFFFFFF70000000000000000
+00000000000000000BFFFFFFFFFFFF500000000000000000
+0000000000000000005DFFFFFFFFA1000000000000000000
+0000000000000000000037ABB96100000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+000000000000025788300000000005886410000000000000
+000000000007DFFFFFFD9643347BFFFFFFFB400000000000
+0000000004EFFFFFFFFFFFFFFFFFFFFFFFFFFB1000000000
+000000007FFFFFFFFFFFFFFFFFFFFFFFFFFFFFD200000000
+00000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE10000000
+0000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB0000000
+000000BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5000000
+000003FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD000000
+000009FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF200000
+00000DFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF600000
+00000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF800000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB00000
+00001FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA00000
+00000EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF700000
+000006FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE100000
+0000008FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD3000000
+000000014555555555555555555555555555555300000000
+000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000
+}
+
+
+
+
+
+
+
+
+
+
+
+
+hide stereotype
+legend right
+|<color:#000000>**Legend**</color> |
+|<#08427B> person |
+|<#1168BD> system|
+|<#686868> external person |
+|<#999999> external system |
+endlegend
+
+title System Context diagram for KometPay
+
+rectangle "<$person>\n==US User\n\n Sends money to users in Colombia." <<person>> as usu
+rectangle "<$person>\n==Colombian User\n\n Stores USDC and offramps COP." <<person>> as cou
+rectangle "==KometPay\n\n Enables remittances between US and Colombia." <<system>> as kps
+rectangle "==Stably\n\n Onramp of USD to USDC using ACH." <<external_system>> as sex
+rectangle "==Stellar\n\n Blockchain network." <<external_system>> as sllex
+rectangle "==Anclap\n\n Offramp of Digital COP to COP." <<external_system>> as aex
+rectangle "==Vero\n\n Sends transactional, behavioural and marketing comms." <<external_system>> as vex
+
+
+usu - ->> cou : **Send money to**
+usu - ->> kps : **Register using**
+cou - ->> kps : **Register and holds funds using**
+kps - ->> sex : **Requests onramping to**
+kps - ->> sllex : **Creates wallets using**
+kps - ->> aex : **Requests offramping to**
+kps - ->> vex : **Sends communications to**
+usu - ->> sex : **Completes KYC connects to bank using**
+cou - ->> aex : **Completes KYC using**
+vex - ->> usu : **Sends communications to**
+vex - ->> cou : **Sends communications to**
+@enduml
+
+PlantUML version 1.2022.3(Tue Mar 29 11:10:57 COT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: CO
+--></g></svg>

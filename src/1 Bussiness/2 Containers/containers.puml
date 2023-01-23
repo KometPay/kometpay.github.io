@@ -1,0 +1,32 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Container.puml
+
+LAYOUT_WITH_LEGEND()
+
+title System Components diagram for KometPay
+
+Person(usu, "US User", "Sends money to users in Colombia.")
+Person(cou, "Colombian User", "Stores USDC and offramps COP.")
+System_Boundary(kps, "KomtPay") {
+    Container(amwa, "Mobile wallet", "React-Native", "Enables remittances between US and Colombia.")
+    Container(api, "API Application", "NestJs  DDD", "Provides onramping, wallet and offramping functionality via a JSON/HTTP API. ")
+    Container(db, "Database", "Mysql", "Stores user registration information, hashed authentication credentials, access logs, etc.")
+
+    Rel(api, amwa, "Uses", "JSON/HTTPS")
+    Rel(api, db, "Reads & writes to", "TYPEORM")
+
+}
+System_Ext(sex, "Stably", "Onramp of USD to USDC using ACH.")
+System_Ext(sllex, "Stellar", "Blockchain network.")
+System_Ext(aex, "Anclap", "Offramp of Digital COP to COP.")
+System_Ext(vex, "Vero", "Sends transactional, behavioural and marketing comms.")
+
+Rel(usu, amwa, "Uses", "Mobile")
+Rel(cou, amwa, "Uses", "Mobile")
+Rel(api, vex, "send communication to ", "JSON/HTTPS")
+Rel(api, sex, "Onramp to ", "JSON/HTTPS")
+Rel(api, sllex, "Wallet blockchain to ", "JSON/HTTPS")
+Rel(api, aex, "Offramp to ", "JSON/HTTPS")
+
+@enduml
+

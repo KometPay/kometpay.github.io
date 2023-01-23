@@ -1,0 +1,28 @@
+@startuml
+!include https://raw.githubusercontent.com/adrianvlupu/C4-PlantUML/latest/C4_Context.puml
+
+LAYOUT_WITH_LEGEND()
+
+title System Context diagram for KometPay
+
+Person(usu, "US User", "Sends money to users in Colombia.")
+Person(cou, "Colombian User", "Stores USDC and offramps COP.")
+System(kps, "KometPay", "Enables remittances between US and Colombia.")
+System_Ext(sex, "Stably", "Onramp of USD to USDC using ACH.")
+System_Ext(sllex, "Stellar", "Blockchain network.")
+System_Ext(aex, "Anclap", "Offramp of Digital COP to COP.")
+System_Ext(vex, "Vero", "Sends transactional, behavioural and marketing comms.")
+
+
+Rel(usu, cou, "Send money to")
+Rel(usu, kps, "Register using")
+Rel(cou, kps, "Register and holds funds using")
+Rel(kps, sex, "Requests onramping to")
+Rel(kps, sllex, "Creates wallets using")
+Rel(kps, aex, "Requests offramping to")
+Rel(kps, vex, "Sends communications to")
+Rel(usu, sex, "Completes KYC connects to bank using")
+Rel(cou, aex, "Completes KYC using")
+Rel(vex, usu, "Sends communications to")
+Rel(vex, cou, "Sends communications to")
+@enduml
